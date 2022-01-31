@@ -1,4 +1,4 @@
-module github.com/racoondad/utils
+module github.com/racoondad/rutils
 
 go 1.17
 

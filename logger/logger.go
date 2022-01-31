@@ -6,7 +6,7 @@ import (
 	"time"
 
 	"github.com/natefinch/lumberjack"
-	"github.com/racoondad/utils/filedir"
+	"github.com/racoondad/rutils/filedir"
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"
 )
